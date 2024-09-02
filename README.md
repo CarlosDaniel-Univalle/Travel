@@ -45,3 +45,5 @@ Estas tecnologías se han combinado de manera sinérgica para crear una experien
 Únete a nuestra comunidad de desarrolladores apasionados y ayúdanos a dar forma al futuro del turismo.
 
 ¡Viaja con nosotros! 🌎
+
+"Este es un cambio que unicamente deberia de ser mostrado en la version 1.1 de traveler"
